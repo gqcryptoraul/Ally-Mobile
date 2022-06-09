@@ -1,9 +1,9 @@
-# **:triangular_flag_on_post: ALLY APP** (versão 0.1.0)
+# **:triangular_flag_on_post: Ally Mobile** (versão 0.0.0)
 
 
-> Protótipo de Ally App, criado em React Navtive CLI, só este Read Me mostra como montá-lo numa equipa de desenvolvedores.
+> Protótipo de Ally Mobile, criado em React Navtive EXPO, só este Read Me mostra como montá-lo numa equipa de desenvolvedores.
 
----
+
 
 
 ## **:chave inglesa: Utilização pelo desenvolvedor***
@@ -21,32 +21,46 @@ Para instalar o projecto e todas as dependências, introduza na pasta do project
 
 ---
 
-### Iniciar o projecto o server allyapp
+### Iniciar o projecto o server Ally Mobile
 
 ```bash
-npm start
+EXPO start  or npm start
 ```
 ```
 
-### Iniciar o projecto o server allyapp
+Starting project at /home/soyraul/Proyectos/Ally Mobile
+Developer tools running on http://localhost:19002
+Starting Metro Bundler
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄▄ ▀█▄█ █ ▄▄▄▄▄ █
+█ █   █ ██▄▀ █ ▀█▄█ █   █ █
+█ █▄▄▄█ ██▀▄ ▄█▀█▀█ █▄▄▄█ █
+█▄▄▄▄▄▄▄█ ▀▄█ ▀▄▀ █▄▄▄▄▄▄▄█
+█▄ █▄ █▄█▀▄▀█▄██ ▀█▄█▀█▀▀▄█
+█ ▄▀▄▄▄▄██▄██▄██▄ ▀███▄▀▀ █
+█▀▄ ██▄▄ ▄▄ █ █▄ █ ▄▀▀█▀ ██
+█ ▄▀ ▄▀▄█▄▀▄█ █▀ ▄▀ ██▄▀  █
+█▄█▄▄▄▄▄▄ ██▄▀▄ █ ▄▄▄  ▄▀▄█
+█ ▄▄▄▄▄ ██ ▄▄  ▄█ █▄█ ███▄█
+█ █   █ █ ▀▀▀▀▀█▄ ▄  ▄ █▀▀█
+█ █▄▄▄█ █▀ ▄  █  ▄█▀▀▄█   █
+█▄▄▄▄▄▄▄█▄▄▄▄██▄▄▄▄█▄▄███▄█
 
-### para Android
+› Metro waiting on exp://localhost:19000
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
 
-```bash
+› Press a │ open Android
+› Press w │ open web
 
-```
-npm run android   
+› Press r │ reload app
+› Press m │ toggle menu
+› Press d │ show developer tools
+› shift+d │ toggle auto opening developer tools on startup (disabled)
 
-```
-o 
-### Para IoS
+› Press ? │ show all commands
 
-npm run ios
-
-### Testar o projecto
-
-```bash
-teste das npm
+Logs for your project will appear below. Press Ctrl+C to exit.
+Started Metro Bundler
 ```
 
 ---
